@@ -1,9 +1,9 @@
 # Gestión de la Innovación y la Analítica de Datos, como soporte a la toma de decisiones militares en la fase de análisis de información previo al uso del Poder Aéreo del País
 
-Alexandra Zabala-López 1, Mario Linares-Vásquez 2, Yezid Donoso Meisel 2
+Alexandra Zabala-López <sup>1</sup> , Mario Linares-Vásquez <sup>2</sup> , Yezid Donoso Meisel <sup>2</sup>
 
-1 Fuerza Aérea Colombiana, Centro de Desarrollo Tecnológico Aeroespacial para la Defensa
-2 Universidad de los Andes, Departamento de Ingeniería de Sistemas y Computación
+<sup>1</sup> Fuerza Aérea Colombiana, Centro de Desarrollo Tecnológico Aeroespacial para la Defensa
+<sup>2</sup> Universidad de los Andes, Departamento de Ingeniería de Sistemas y Computación
 
 # Referencias
 
@@ -81,7 +81,7 @@ Etesamipour, B., & Hammell, R. J. (2020b). Investigation of Ranking Methods With
     
     Strickland, F., Mariani, J., & Jenkins, I. (2019). Military readiness through AI readiness. The Deloitte Center for Government INSIGHTS.
 
-    Valiyev, G., Piraino, M., Kok, A., Street, M., Ilic Mestric, I., & Birger, R. (2020). Initial Exploitation of Natural Language Processing Techniques on NATO Strategy and Policies. Information & Security: An International Journal, 47(2), 187-202. https://doi.org/10.11610/ISIJ.4713
+• Valiyev, G., Piraino, M., Kok, A., Street, M., Ilic Mestric, I., & Birger, R. (2020). Initial Exploitation of Natural Language Processing Techniques on NATO Strategy and Policies. Information & Security: An International Journal, 47(2), 187-202. https://doi.org/10.11610/ISIJ.4713
  
 
 # Sobre los autores
