@@ -3,6 +3,7 @@
 Alexandra Zabala-López <sup>1</sup> , Mario Linares-Vásquez <sup>2</sup> , Yezid Donoso Meisel <sup>2</sup>
 
 <sup>1</sup> Fuerza Aérea Colombiana, Centro de Desarrollo Tecnológico Aeroespacial para la Defensa
+
 <sup>2</sup> Universidad de los Andes, Departamento de Ingeniería de Sistemas y Computación
 
 # Referencias
@@ -23,7 +24,8 @@ Alexandra Zabala-López <sup>1</sup> , Mario Linares-Vásquez <sup>2</sup> , Yez
     Cebollero Martínez, C. (2019). Escribir para pensar: la doctrina militar como motor de la innovación. bie3: Boletín IEEE, ISSN-e 2530-125X, No 13, 2019, págs. 614-636, 13, 614-636. https://dialnet.unirioja.es/servlet/articulo?codigo=6962197&info=resumen&idioma=ENG
     
     Chesbrough, H. W. (2003). The Era of Open Innovation MITSloan Management Review. 44(3), 4435.
-Doll, L., Brendecke, L., Behm, M., & Kallfass, D. (2020). From the Game Map to the Battlefield–Using DeepMind’s Advanced AlphaStar Techniques to Support Military Decision-Makers. sto.nato.int. https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-184/MP-MSG-184-14.pdf
+    
+    Doll, L., Brendecke, L., Behm, M., & Kallfass, D. (2020). From the Game Map to the Battlefield–Using DeepMind’s Advanced AlphaStar Techniques to Support Military Decision-Makers. sto.nato.int. https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-184/MP-MSG-184-14.pdf
 
     Etesamipour, B., & Hammell, R. J. (2019a). Aggregating information toward military decision making. Proceedings - 2019 IEEE/ACIS 17th International Conference on Software Engineering Research, Management and Application, SERA 2019, 19-26. https://doi.org/10.1109/SERA.2019.8886807
     
@@ -31,7 +33,7 @@ Doll, L., Brendecke, L., Behm, M., & Kallfass, D. (2020). From the Game Map to t
     
     Etesamipour, B., & Hammell, R. J. (2020a). Comparison of Fuzzy-based Value of Information to Bayesian Inference in a Military Domain. Proceedings - 2020 IEEE International Conference on Cognitive and Computational Aspects of Situation Management, CogSIMA 2020, 45-52. 
     
-Etesamipour, B., & Hammell, R. J. (2020b). Investigation of Ranking Methods Within the Military Value of Information (VoI) Problem Domain. Communications in Computer and Information Science, 1237 CCIS, 129-142. https://doi.org/10.1007/978-3-030-50146-4_11
+    Etesamipour, B., & Hammell, R. J. (2020b). Investigation of Ranking Methods Within the Military Value of Information (VoI) Problem Domain. Communications in Computer and Information Science, 1237 CCIS, 129-142. https://doi.org/10.1007/978-3-030-50146-4_11
     
     Fuerza Aérea Colombiana. (2013). Doctrina Básica Aérea y Espacial. 72.
     
@@ -81,7 +83,7 @@ Etesamipour, B., & Hammell, R. J. (2020b). Investigation of Ranking Methods With
     
     Strickland, F., Mariani, J., & Jenkins, I. (2019). Military readiness through AI readiness. The Deloitte Center for Government INSIGHTS.
 
-• Valiyev, G., Piraino, M., Kok, A., Street, M., Ilic Mestric, I., & Birger, R. (2020). Initial Exploitation of Natural Language Processing Techniques on NATO Strategy and Policies. Information & Security: An International Journal, 47(2), 187-202. https://doi.org/10.11610/ISIJ.4713
+    Valiyev, G., Piraino, M., Kok, A., Street, M., Ilic Mestric, I., & Birger, R. (2020). Initial Exploitation of Natural Language Processing Techniques on NATO Strategy and Policies. Information & Security: An International Journal, 47(2), 187-202. https://doi.org/10.11610/ISIJ.4713
  
 
 # Sobre los autores
